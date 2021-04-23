@@ -4,3 +4,4 @@
   - ipynb file of your answer
   - Folder of the dashboard that you made
 3. The exam will be held in 5 hours
+4. If it cannot be uploaded, just send them
